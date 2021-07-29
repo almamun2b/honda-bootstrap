@@ -40,3 +40,19 @@ hr{
 .clients-img-size{
     width: 9rem;
 }
+
+.photo-frame {
+    overflow: hidden;
+}
+
+.photo-frame:hover .photo {
+    transform: scale(1.15) ;    
+    transition: transform 1s ease-in-out;
+}
+
+.bg-slider-caption{
+    background-color:#0a0a0a62;
+    max-width: 100%;
+    width:100%;
+    left: 0;
+}
