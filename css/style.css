@@ -1,0 +1,42 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Custom Styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color-header{
+    background-color: #264653;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+hr{
+    width: 4rem;
+}
+
+.grayscale {
+  filter: grayscale(100%);
+}
+
+.reatured-img-width{
+    width: 18rem;
+}
+
+.bg-color-button{
+    background-color: #E76F51;
+}
+
+.custom-primary-color{
+    color: #E76F51;
+}
+.custom-secondary-color{
+    color: #23A6F0;
+}
+
+.clients-img-size{
+    width: 9rem;
+}
